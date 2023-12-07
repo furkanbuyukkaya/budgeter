@@ -5,7 +5,7 @@
 ## What is in it?
 
 - Platform specific approach
-- Local & backend storage
+- offline & backend storage
 - Various navigators
 - Reusable components
 
